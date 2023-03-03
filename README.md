@@ -14,7 +14,9 @@ I'm a relatively junior developer dabbling in multiple different languages, tryi
 </div>
 <br><br><br>
 <div align="left">
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/339179233022574592)](https://discord.com/users/339179233022574592)
+
 </div>
 
 <br><br>
