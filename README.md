@@ -5,9 +5,6 @@ I'm a relatively junior developer dabbling in multiple different languages, tryi
 
 <div align="center">
   <div>
-    <img width="47%"align="left" src="https://github-readme-stats.vercel.app/api?username=iCallH4x&show_icons=true&theme=transparent">
-  </div>
-  <div>
     <img width="47%" align="right" src="https://lastfm-recently-played.vercel.app/api?user=zak-ando">
   </div>
  
