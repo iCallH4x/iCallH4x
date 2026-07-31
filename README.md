@@ -19,5 +19,5 @@ I'm a relatively junior developer dabbling in multiple different languages, tryi
 <br><br>
 <div align="center">
 <h3> Social Media</h3> 
-<a href="https://twitch.tv/iCallH4x"><img alt="Twitch" src="https://img.shields.io/badge/iCallH4x-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/></a><a href="https://twitter.com/zak_ando"><img alt="Twitter" src="https://img.shields.io/badge/zak_ando-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a><a href="https://discord.gg/qBq2WSsgvv">
+<a href="https://twitch.tv/iCallH4x"><img alt="Twitch" src="https://img.shields.io/badge/iCallH4x-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/></a><a href="https://discord.gg/qBq2WSsgvv">
 
